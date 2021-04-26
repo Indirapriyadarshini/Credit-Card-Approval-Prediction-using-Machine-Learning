@@ -1,9 +1,6 @@
 # Credit-Card-Approval-Prediction-using-Machine-Learning
 Built a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given. Using some Mechine Learning Algorithm modes for prediction to construct label. Also, unbalance data problem is a big problem in this sample data.
 
-## Team size: 3, Course: Bigdata Warehouse(CS662)
-Indira Priyadarshini, Ege Ozcan, and Katie Albany
-
 ## Problem
 The financial industry has its own ways of assessing risk factors in order to come up with risk control methods. Credit card companies, as part of the financial industry, use credit scores to make decisions about consumer’s credit card applications. Specifically, credit card companies use applicant’s personal information and personal financial data to predict how probable future defaults and credit card borrowings are for consumer’s fitting a certain profile. Credit card companies use historical data and observable trends to make decisions regarding clients’ applications. One of the challenges that they face is to quantify risk in order to assess its magnitude and come up with prevention or mitigation methods.
 Our project will analyze the available data and will try to find a good machine learning method for predicting credit card application approval.
